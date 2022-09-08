@@ -22,6 +22,9 @@ REQUIREMENTS
 
 --> run project using nodemon
     nodemon filename.js
+    
+--> to run the same code in your laptop then no need to install node_module locally using above command instead use 
+    npm i // it will automatically fetch the nodemon module from package.json file(dependencies) 
 
 
 
